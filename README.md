@@ -6,18 +6,6 @@
 
 SheShield’s approach includes person detection, gender classification, and anomaly detection, including lone women at night, unusual gestures, and gatherings of individuals. It also helps in identifying high-risk areas based on historical alert data, fostering a smarter, safer public environment.
 
-### Benefits:
-
-**1. Accelerated Processing**: Significantly reduce the time required to analyze CCTV footage by automating the detection of suspicious activities.
-
-**2. Optimized Resources**: Allow surveillance staff to focus on critical tasks by minimizing the need for constant manual monitoring.
-
-**3. Enhanced Decision-Making**: Improve the quality of decisions made by law enforcement through timely and accurate alerts.
-
-**4. Crime Prevention**: Assist in preventing crimes by identifying and responding to potential threats before they escalate.
-
-**5. Insightful Data**: Extract valuable insights from visual data to understand crime patterns and trends, aiding in strategic planning for public safety.
-
 ### Project Overview:
 
 Developed an intelligent surveillance system integrating gender detection, gesture recognition, and SOS alert features using real-time video processing, database management, and SMS notifications. This system is equipped to identify lone women at night, women surrounded by multiple men, and SOS gestures, generating immediate alerts when safety thresholds are breached.
@@ -53,3 +41,16 @@ Developed an intelligent surveillance system integrating gender detection, gestu
 **Geospatial Analysis**: Applied clustering on latitude and longitude data, visualized via Folium for hotspot detection.
 
 **Software Development**: Designed a GUI with Tkinter, ensuring user-friendly media input, location tagging, and hotspot analysis.
+
+### Benefits:
+
+**1. Accelerated Processing**: Significantly reduce the time required to analyze CCTV footage by automating the detection of suspicious activities.
+
+**2. Optimized Resources**: Allow surveillance staff to focus on critical tasks by minimizing the need for constant manual monitoring.
+
+**3. Enhanced Decision-Making**: Improve the quality of decisions made by law enforcement through timely and accurate alerts.
+
+**4. Crime Prevention**: Assist in preventing crimes by identifying and responding to potential threats before they escalate.
+
+**5. Insightful Data**: Extract valuable insights from visual data to understand crime patterns and trends, aiding in strategic planning for public safety.
+
