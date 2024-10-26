@@ -38,6 +38,26 @@ Developed an intelligent surveillance system integrating gender detection, gestu
 
 7. **Alerting via SMS**:
    - Uses Twilio’s API for sending SMS alerts in case of detected incidents (enter your Twilio credentials in the `sms()` function).
+
+### Result:
+
+Below are the resulting videos and images.
+
+![Result video](./SheShield/Output/output_video1.gif)
+
+![Result video](./SheShield/Output/output_video2.gif)
+
+- Result Images
+
+![Result image](./SheShield/Output/Screenshot1.jpg)
+![Result image](./SheShield/Output/Screenshot2.jpg)
+![Result image](./SheShield/Output/Screenshot3.jpg)
+
+**Alerting via SMS**: Uses Twilio’s API for sending SMS alerts in case of detected incidents.
+
+![Result image](./SheShield/Output/Screenshot4.jpg)
+
+    
      
 ### Quantifiable Metrics & Impact:
 
