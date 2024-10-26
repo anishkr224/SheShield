@@ -47,13 +47,13 @@ Below are the resulting videos and images.
 
 ![Result video](./SheShield/Output/output_video2.gif)
 
-- Result Images
+- **Result Images**
 
 ![Result image](./SheShield/Output/Screenshot1.jpg)
 ![Result image](./SheShield/Output/Screenshot2.jpg)
 ![Result image](./SheShield/Output/Screenshot3.jpg)
 
-**Alerting via SMS**: Uses Twilio’s API for sending SMS alerts in case of detected incidents.
+- **Alerting via SMS**: Uses Twilio’s API for sending SMS alerts in case of detected incidents.
 
 ![Result image](./SheShield/Output/Screenshot4.jpg)
 
