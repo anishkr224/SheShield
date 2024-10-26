@@ -47,7 +47,7 @@ Developed an intelligent surveillance system integrating gender detection, gestu
 - Violence detection:
 ![Result video](./SheShield/Output/output_video2.gif)
 
-- **Result Images**
+- **Result Images**:
 
 ![Result image](./SheShield/Output/Screenshot1.jpg)
 ![Result image](./SheShield/Output/Screenshot2.jpg)
