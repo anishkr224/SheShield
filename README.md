@@ -13,8 +13,8 @@ Developed an intelligent surveillance system integrating gender detection, gestu
 ### Work Flow:
 
 1. **Model Loading**:
-   - **Gender Classification Model**: Downloads and loads a pre-trained gender classification model to distinguish between men and women.
-   - **Gesture Model (Placeholder)**: Includes a placeholder function for gesture recognition, such as detecting SOS gestures.
+   - **Gender Classification Model**: Loads a custom-trained gender classification model developed to accurately distinguish between male and female individuals based on visual input.
+   - **Gesture Model**: Loads a prototype model built with MediaPipe to detect open-palm SOS gestures in real time using hand landmark positions. Designed for quick emergency recognition with plans for future expansion.
 
 2. **Database Setup**:
    - Uses SQLite to store gender counts and incident types, with location data for incident tracking.
